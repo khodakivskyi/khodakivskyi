@@ -1,3 +1,11 @@
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/69a2d5bb-7b54-49f9-899d-8d65ebc7bda1"/>
+    </td>
+  </tr>
+</table>
+
 # 👋 Hi, I’m a student and aspiring Full-Stack Developer
 
 Welcome to my GitHub profile! I'm currently studying software development and exploring different areas of programming. I’ve gained solid experience working with .NET technologies, desktop applications, basic front-end development and databases.
