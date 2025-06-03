@@ -35,7 +35,7 @@ Here you'll find my personal and educational projects that demonstrate what I’
 - **[Entering_to_JS](https://github.com/khodakivskiy/Entering_to_JS)** – Basic JavaScript exercises covering DOM manipulation and arrays.
 
 ### 🎨 Design Projects
-- **[Photoshop_Projects](https://github.com/khodakivskiy/Photoshop_expirience)** – Some of my graphic design works in Adobe Photoshop and certificates from won competitions.
+- **[Photoshop_Expirience](https://github.com/khodakivskiy/Photoshop_expirience)** – Some of my graphic design works in Adobe Photoshop and certificates from won competitions.
 --
 
-![image](https://github.com/user-attachments/assets/a33fc77e-f082-48f9-a1c5-1d8cba0aa8b7)
+<img src="https://github.com/user-attachments/assets/a33fc77e-f082-48f9-a1c5-1d8cba0aa8b7" width="400"/>
