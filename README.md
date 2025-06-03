@@ -9,7 +9,11 @@ Here you'll find my personal and educational projects that demonstrate what I’
 ## 🧰 Tech I'm using and learning
 
 - 💻 C#, .NET (WinForms, WPF, ASP.NET MVC)
+- 🗂️ JSON — data interchange format, serialization/deserialization in .NET (System.Text.Json, Newtonsoft.Json)
+- 📦 NuGet — package manager for .NET
 - 🗃️ ADO.NET, SQL Server, MySQL, SQL Server Express LocalDB
+- 🛢️ Entity Framework 
+- 🔧 C
 - 🌐 HTML5, CSS3, Bootstrap
 - 🧠 JavaScript — *actively learning (DOM, syntax, logic)*
 - 🛠️ Git, GitHub, GitLab, Visual Studio, Rider, WebStorm
