@@ -9,6 +9,7 @@ Here you'll find my personal and educational projects that demonstrate what I’
 ## 🧰 Tech I'm using and learning
 
 - 💻 C#, .NET (WinForms, WPF, ASP.NET MVC)
+- 🌐 ASP.NET — web apps and APIs with .NET
 - 🗂️ JSON — data interchange format, serialization/deserialization in .NET (System.Text.Json, Newtonsoft.Json)
 - 📦 NuGet — package manager for .NET
 - 🗃️ ADO.NET, SQL Server, MySQL, SQL Server Express LocalDB
