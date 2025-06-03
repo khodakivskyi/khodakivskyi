@@ -38,6 +38,10 @@ Here you'll find my personal and educational projects that demonstrate what I’
 - **[Photoshop_Expirience](https://github.com/khodakivskiy/Photoshop_expirience)** – Some of my graphic design works in Adobe Photoshop and certificates from won competitions.
 --
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/a33fc77e-f082-48f9-a1c5-1d8cba0aa8b7" width="600" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a33fc77e-f082-48f9-a1c5-1d8cba0aa8b7" width="600" />
+    </td>
+  </tr>
+</table>
