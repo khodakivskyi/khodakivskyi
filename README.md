@@ -52,6 +52,7 @@ Currently learning JavaScript and exploring full-stack development.
 
 ### 🌐 Web Projects
 - **[To_Do_List](https://github.com/khodakivskiy/To_Do_List)** – Task manager app using ASP.NET MVC and SQL Server (with ADO.NET).
+- **[Pokémon Explorer](https://github.com/khodakivskiy/Pokemon_Explorer)** – A mini Pokémon browser built with vanilla JavaScript and the public PokeAPI.
 - **[Bootstrap_Using](https://github.com/khodakivskiy/Bootstrap_Using)** – A responsive landing page built with Bootstrap 5.
 - **[HTML_CSS_simple_responsive_page](https://github.com/khodakivskiy/HTML_CSS_simple_responsive_page)** – A clean, framework-free responsive web page using HTML5 and CSS3.
 
