@@ -6,28 +6,37 @@
   </tr>
 </table>
 
-# 👋 Hi, I’m a student and aspiring Full-Stack Developer
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm currently studying software development and exploring different areas of programming. I’ve gained solid experience working with .NET technologies, desktop applications, basic front-end development and databases.
+I'm a passionate student and aspiring Full-Stack Developer focused on building practical applications using .NET and modern web technologies. I enjoy turning complex problems into simple, beautiful, and intuitive software solutions.
 
-Here you'll find my personal and educational projects that demonstrate what I’ve learned so far and how I'm growing as a developer.
+🔭 Currently learning JavaScript and exploring full-stack development.
+
+💡 Always open to collaboration and learning from others in the tech community.
 
 ---
 
-## 🧰 Tech I'm using and learning
+## 🧰 Tech Stack
 
-- 💻 C#, .NET (WinForms, WPF, ASP.NET MVC)
-- 🌐 ASP.NET — web apps and APIs with .NET
-- 🗂️ JSON — data interchange format, serialization/deserialization in .NET (System.Text.Json, Newtonsoft.Json)
-- 📦 NuGet — package manager for .NET
-- 🗃️ ADO.NET, SQL Server, MySQL, SQL Server Express LocalDB
-- 🛢️ Entity Framework 
-- 🔧 C
-- 🌐 HTML5, CSS3, Bootstrap
-- 🧠 JavaScript — *actively learning (DOM, syntax, logic)*
-- 🛠️ Git, GitHub, GitLab, Visual Studio, Rider, WebStorm
-- 🎨 Adobe Photoshop (design, retouch, UI mockups)
+### 💻 Backend
+- C#, .NET (WinForms, WPF, ASP.NET MVC)
+- ASP.NET Web APIs (REST, GraphQL)
+- Entity Framework, ADO.NET
+- SQL Server, MySQL
 
+### 🌐 Frontend
+- HTML5, CSS3, Bootstrap
+- JavaScript *(actively learning)*
+- 11ty (Static Site Generator)
+
+### 🛠 Tools & Platforms
+- Visual Studio, Rider, WebStorm
+- Git, GitHub, GitLab
+- NuGet, JSON (.NET serialization)
+
+### 🎨 Design
+- Adobe Photoshop (UI mockups, retouching)
+  
 ---
 
 ## 🚀 Projects I'm proud of
@@ -49,7 +58,23 @@ Here you'll find my personal and educational projects that demonstrate what I’
 
 ### 🎨 Design Projects
 - **[Photoshop_Expirience](https://github.com/khodakivskiy/Photoshop_expirience)** – Some of my graphic design works in Adobe Photoshop and certificates from won competitions.
---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khodakivskiy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodakivskiy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+  
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khodakivskiy&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <table align="center">
   <tr>
