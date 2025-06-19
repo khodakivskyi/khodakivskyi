@@ -10,7 +10,7 @@
 
 I'm a passionate student and aspiring Full-Stack Developer focused on building practical applications using .NET and modern web technologies. I enjoy turning complex problems into simple, beautiful, and intuitive software solutions.
 
-🔭 Currently learning JavaScript and exploring full-stack development.
+Currently learning JavaScript and exploring full-stack development.
 
 💡 Always open to collaboration and learning from others in the tech community.
 
@@ -20,9 +20,11 @@ I'm a passionate student and aspiring Full-Stack Developer focused on building p
 
 ### 💻 Backend
 - C#, .NET (WinForms, WPF, ASP.NET MVC)
-- ASP.NET Web APIs (REST, GraphQL)
+- ASP.NET
+- GraphQL
 - Entity Framework, ADO.NET
-- SQL Server, MySQL
+- SQL Server, MySQL, XML
+- C
 
 ### 🌐 Frontend
 - HTML5, CSS3, Bootstrap
@@ -30,7 +32,7 @@ I'm a passionate student and aspiring Full-Stack Developer focused on building p
 - 11ty (Static Site Generator)
 
 ### 🛠 Tools & Platforms
-- Visual Studio, Rider, WebStorm
+- Visual Studio, Rider, WebStorm, SSMS
 - Git, GitHub, GitLab
 - NuGet, JSON (.NET serialization)
 
@@ -58,21 +60,6 @@ I'm a passionate student and aspiring Full-Stack Developer focused on building p
 
 ### 🎨 Design Projects
 - **[Photoshop_Expirience](https://github.com/khodakivskiy/Photoshop_expirience)** – Some of my graphic design works in Adobe Photoshop and certificates from won competitions.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khodakivskiy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodakivskiy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-  
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khodakivskiy&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
