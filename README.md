@@ -16,6 +16,6 @@ Experienced with Git for version control and design tools like Figma and Photosh
 
 Frontend: HTML, CSS/SCSS, JS/TS, React, 11ty
 
-Backend: ASP.NET MVC, C#, SQL Server, MySQL, GraphQL
+Backend: ASP.NET, C#, SQL Server, MySQL, GraphQL
 
 Tools: Git, Figma, Photoshop
