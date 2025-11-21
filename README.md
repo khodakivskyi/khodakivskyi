@@ -8,14 +8,10 @@
 
 ---
 
-🚀 Junior Full-Stack Developer with a strong foundation in both frontend and backend technologies.
-Proficient in HTML, CSS/SCSS, JavaScript, React, 11ty, and backend solutions using ASP.NET, C#, SQL, GraphQL.
-Currently honing full-stack expertise through personal projects while working as a Frontend Developer. Passionate about clean code, problem-solving, and continuous learning.
-Experienced with Git for version control and design tools like Figma and Photoshop.
-
-
-Frontend: HTML, CSS/SCSS, JS/TS, React, 11ty
-
-Backend: ASP.NET, C#, SQL Server, MySQL, GraphQL
-
-Tools: Git, Figma, Photoshop
+🚀Full-Stack Developer experienced in building web and scalable desktop applications.
+Proficient in C#, ASP.NET Core, React, 11ty, Redux, GraphQL, TypeScript/JavaScript,
+ADO.NET + Dapper, PostgreSQL, MS SQL
+Practical experience with OOP, SOLID, Clean Architecture and MVC.
+Set up CI/CD pipelines with GitHub Actions, including automated API integration
+testing. Committed to clean, efficient code and user-focused solutions. Motivated to
+grow and contribute in teams.
