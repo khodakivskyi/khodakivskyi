@@ -9,8 +9,8 @@
 ---
 
 🚀Full-Stack Developer experienced in building web and scalable desktop applications.
-Proficient in C#, ASP.NET Core, React, 11ty, Redux, GraphQL, TypeScript/JavaScript,
-ADO.NET + Dapper, PostgreSQL, MS SQL
+Proficient in C#, ASP.NET Core, React, 11ty, Redux, GraphQL/REST, TypeScript/JavaScript,
+ADO.NET, Dapper, EF Core, PostgreSQL, MS SQL
 Practical experience with OOP, SOLID, Clean Architecture and MVC.
 Set up CI/CD pipelines with GitHub Actions, including automated API integration
 testing. Committed to clean, efficient code and user-focused solutions. Motivated to
