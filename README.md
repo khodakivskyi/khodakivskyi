@@ -15,7 +15,7 @@ delivery.
 ---
 
 <p align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" width="600" />
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" width="400" />
 </p>
 
 ---
