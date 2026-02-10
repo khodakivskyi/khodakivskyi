@@ -13,9 +13,3 @@ Experienced with Docker and CI/CD pipelines to support reliable and efficient
 delivery.
 
 ---
-
-<p align="center">
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" width="400" />
-</p>
-
----
