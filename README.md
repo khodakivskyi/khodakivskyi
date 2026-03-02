@@ -1,15 +1,8 @@
-# 🚀 Full-Stack Software Engineer (Web)
+# Full-Stack Software Engineer (Web)
 
-Focused on building scalable and maintainable web applications.
+I build web applications end-to-end - REST and GraphQL APIs, data layers, responsive frontends.
+I work primarily with C# / ASP.NET Core on the backend and React on the frontend,
+with Node.js for lighter services and tooling.
 
-Work primarily with ASP.NET Core and Node.js on the backend, and React with
-JavaScript/TypeScript on the frontend.
-
-Architect and implement RESTful and GraphQL APIs, ensuring clean OOP design,
-adherence to SOLID principles, and high code quality through systematic removal
-of code smells.
-
-Experienced with Docker and CI/CD pipelines to support reliable and efficient
-delivery.
-
----
+I care about clean architecture and code that stays maintainable as systems grow.
+Docker, CI/CD, and automated testing are a natural part of how I work.
