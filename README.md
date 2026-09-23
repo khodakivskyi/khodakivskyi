@@ -1,5 +1,3 @@
-<img align="left" width="160" src="https://github.com/user-attachments/assets/1f2241ea-cce2-4829-8538-2e4da6fc578d" alt="Software Engineer">
-<br clear="left">
 <h2>Software Engineer</h2>
 
 <p>
